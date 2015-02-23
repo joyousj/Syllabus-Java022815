@@ -16,25 +16,37 @@ Skills learned: Our 12-week course in Java will cover the basics of developing i
 
 ###Knowledge:
 * understand the purpose of classes and methods in object-oriented programming
+* understand basics of aspect-oriented programming
 * understand distinctions between primitive data types
 * understand the purpose of arrays and their uses
 * understand inheritance and polymorphism
+* understand version control
 * understand when and why exception handling should be used
 * understand Entity Relationships
 * understand how a database stores information
 * understand the relationships between a database, the Java application, the web server, and the client browser
+* understand how web applications are deployed using Java tools
+* understand the MVC framework
+* understand the current landscape of third-party tools and frameworks for Java applications
+* understand unit and regression testing
+* understand how to collaborate with others in a development environment
 
 ###Skills:
 * use appropriate control flow techniques
 * choose appropriate data types for variables
 * use high-level principles to encapsulate code in classes and methods
+* manage projects through version control in git and GitHub
 * create and read Entity Relationship Diagrams
 * query SQL database
 * create web services using SOAP and RESTful techniques.
 * use Eclipse IDE
+* use basic HTML and CSS
 * translate English instructions into Java code
 * build off of large, pre-written codebases
 * debug basic and intermediate issues in Java web applications
+* test using JUnit
+* build and deploy web applications using Spring, Hibernate, and Maven
+* add authentication features to existing applications
 
 
 
