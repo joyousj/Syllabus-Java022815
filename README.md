@@ -67,7 +67,7 @@ Skills learned: Our 12-week course in Java will cover the basics of developing i
 + overloading and overriding
 + intro to Object-Oriented Programming principles
 
-Project: Work through Benford's Law problem
+Project: Work through https://projecteuler.net/archives problem
 
 ----------------------------------------------------
 
