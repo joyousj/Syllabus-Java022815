@@ -43,11 +43,11 @@ Skills learned: Our 12-week course in Java will cover the basics of developing i
 ##Weekly Schedule: 
 
 ###Week 1:  Intro to programming with Java
-variables and primitives
-control statements
-arrays
-methods
-basic I/O
++ variables and primitives
++ control statements
++ arrays
++ methods
++ basic I/O
 
 Project: Create a business expense script
 
@@ -55,12 +55,12 @@ Project: Create a business expense script
 
 
 ###Week 2: Intermediate Java Principles
-classes and objects
-inheritance
-polymorphism
-exception handling
-files and streams
-manipulating collections
++ classes and objects
++ inheritance
++ polymorphism
++ exception handling
++ files and streams
++ manipulating collections
 
 Project: Create a shopping cart application that includes abstraction
 
@@ -68,89 +68,101 @@ Project: Create a shopping cart application that includes abstraction
 
 
 ###Week 3: Unit testing with short scripts
- unit testing with JUnit
- regression testing
++ unit testing with JUnit
++ regression testing
 
 Project: create a test suite for a calculator application
 
 ----------------------------------------------------
 
 
+###Week 4: Bean configuration
++ intro to Spring
++ dependency injection
++ bean factories
++ bean properties
 
-###Week 4: Challenge #1 - text-based applications
-
-Project: Create a text-based virtual store
+Project: ?
 
 ----------------------------------------------------
 
 
-###Week 5:  Intro to Java EE
-Basic HTML/CSS
-enterprise application architecture
-the HTTP request-response model
-developing servlets
+###Week 5:  Wiring and SPEL
++ autowiring
++ annotation-based wiring
++ the Spring Expression Language
 
-Project: Create a static marketing web page served through Java EE
+Project: ?
 
 ---------------------------------------------------- 
 
 
-###Week 6: Java EE part 2
-JavaServer Pages 
-JavaServer Faces
-Enterprise JavaBeans
-
-Project: Create a dynamic, templated website through Java EE
-
-----------------------------------------------------
-
-
-###Week 7: Java EE part 3
-the Java persistence API 
-messaging
-creating web services
-
-Project: Extend week 6 project by adding RESTful web services
-
-----------------------------------------------------
-
-
-
-###Week 8: Challenge #2- web application
-
-Project: Develop web app to solve a real-world business case (all groups use same case)
-
-----------------------------------------------------
-
-
-###Week 9: Database Modeling
-entities, instances, attributes, and identifiers
-identifying relationships
-creating ERD diagrams
-setting up MySQL
-connecting to a database
-SELECT statements
-
+###Week 6: Database Modeling and Setup
++ entities, instances, attributes, and identifiers
++ identifying relationships
++ creating ERD diagrams
++ setting up MySQL
++ connecting to a database
++ SELECT statements
 
 Project: Brainstorm web app ideas and design an appropriate database structure
 
 ----------------------------------------------------
 
 
-###Week 10: SQL querying
-the WHERE clause
-INSERT, UPDATE, DELETE clauses
-database joins
+###Week 7: SQL querying
++ the WHERE clause
++ INSERT, UPDATE, DELETE clauses
++ database joins
+
+Project: Add database functionality to the store app from week 4
+
+----------------------------------------------------
+
+
+###Week 8: Building Web Applications with Spring
++ intro to HTML and CSS
++ Maven
++ the MVC framework for building web apps
++ accessing database objects from a web app
+
+Project: ?
+
+----------------------------------------------------
+
+
+###Week 9: Web Forms
++ HTTP methods
++ accessing data from forms
++ form validation
+
+Project: Create an inventory management system
+
+----------------------------------------------------
+
+
+###Week 10: Hibernate
++ ?
++ ?
++ ?
 
 Project: Add database functionality to the store app from week 4
 
 --------------------------------------------------
 
 
-###Weeks 11 & 12: Challenge #3 - web app with databases
+###Week 11: Security
++ security filters
++ authentication and authorization
++ login and security errors
 
-Project: each student chooses an individual project from a real-world business case, develops database-backed web application to solve issues presented in case
+Project: add authentication features to an existing project
 
 -----------------------------------------------------------------------------------------------------
 
 
+###Week 12: Final Project
+
+Project: each student chooses an individual project from a real-world business case, develops database-backed web application to solve issues presented in case
+
+--------------------------------------------------------------------------------
