@@ -55,6 +55,8 @@ Skills learned: Our 12-week course in Java will cover the basics of developing i
 ##Weekly Schedule: 
 
 ###Week 1:  Intro to programming with Java
++ setting up Eclipse IDE
++ version control with git and GitHub
 + variables and primitives
 + control statements
 + arrays
