@@ -16,7 +16,7 @@ Skills learned: Our 12-week course in Java will cover the basics of developing i
 
 ###Knowledge:
 * understand the purpose of classes and methods in object-oriented programming
-* understand basics of aspect-oriented programming
+* understand usage and principles of Object-Oriented Programming
 * understand distinctions between primitive data types
 * understand the purpose of arrays and their uses
 * understand inheritance and polymorphism
