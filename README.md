@@ -177,12 +177,14 @@ Project: Add authentication features to an existing project
 
 ###Week 11: Review and Soft Skills Workshops
 + review work through first 10 weeks
-+ Agile developement in a team environment
++ Agile development in a team environment
++ Scrum methodology
++ Presentation skills
 + interview and resume prep
 + working with a team
 + begin final project
 
-Project: Mock Interviews and Job applications
+Project: Agile Workshop and Mock Interviews
 
 -----------------------------------------------------------------------------------------------------
 
