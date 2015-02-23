@@ -60,6 +60,9 @@ Skills learned: Our 12-week course in Java will cover the basics of developing i
 + arrays
 + methods
 + basic I/O
++ regular expressions
++ typecast/generics
++ intro to Object-Oriented Programming principles
 
 Project: Create a business expense script
 
