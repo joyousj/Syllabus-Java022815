@@ -66,7 +66,7 @@ Skills learned: Our 12-week course in Java will cover the basics of developing i
 + typecast/generics
 + intro to Object-Oriented Programming principles
 
-Project: Create a business expense script
+Project: Work through Benford's Law problem
 
 ----------------------------------------------------
 
@@ -138,6 +138,7 @@ Project: Add database functionality to the store app from week 4
 
 
 ###Week 8: Building Web Applications with Spring
++ Aspect-Oriented programming principles
 + intro to HTML and CSS
 + Maven
 + the MVC framework for building web apps
@@ -148,7 +149,8 @@ Project: ?
 ----------------------------------------------------
 
 
-###Week 9: Web Forms
+###Week 9: Web Forms and JSP
++ intro to JSP
 + HTTP methods
 + accessing data from forms
 + form validation
@@ -158,8 +160,8 @@ Project: Create an inventory management system
 ----------------------------------------------------
 
 
-###Week 10: Hibernate
-+ ?
+###Week 10: Hibernate and Unix
++ Unix shell scripts and UML
 + ?
 + ?
 
@@ -170,6 +172,7 @@ Project: Add database functionality to the store app from week 4
 
 ###Week 11: Security
 + security filters
++ servlets
 + authentication and authorization
 + login and security errors
 
