@@ -91,7 +91,7 @@ Project: Create a text-based online store application that includes abstraction
 + using Maven
 + Spring configuration
 
-Project: create a test suite for a poker application
+Project: Create a test suite for a poker application.
 
 ----------------------------------------------------
 
@@ -100,35 +100,34 @@ Project: create a test suite for a poker application
 
 + HTML, CSS
 + UML, Servlets
-+ MVC, Exercise using MVC pattern
-+ Intro to JSP, tablibs
++ MVC patterns
++ Intro to JSP, tag libs
 + Custom tag libs, Intro to Struts
 
-Project: Website to host games 
+Project: Create a website to host games (including the poker game from Weeks 1 and 3) 
 
 ----------------------------------------------------
 
 
 ###Week 5:  Spring
 
-+ Struts, Binding all together
-+ XML
++ Struts and Binding
++ Intro to XML
 + Intro to Spring framework
-+ Configuration, DI, bean factories, auto wiring
++ Configuration, DI, bean factories, auto-wiring
 + Creating applications using SPRING
 
-Project: Convert poker app to use spring framefork
+Project: Deploy poker application from Week 4 using Spring framework.
 
 ---------------------------------------------------- 
 
 
 ###Week 6: Hibernate
 
-+ Introduction to hibernate
-+ Web application using Hibernate, HQL
-+ Mappings, Transaction Management
-+ Integration with Struts, Spring
-+ Exercsie
++ Introduction to Hibernate
++ Building web applications with Hibernate & HQL
++ Mappings and Transaction Management
++ Integrating Struts into Spring
  
 ---------------------------------------------------- 
 
@@ -167,7 +166,7 @@ Project: Add database functionality to the store app from week 4
 + Exercise implementing security, logging
 
 
-Project: Add single sign on login page to website, security for shopping cart, card trnsactions
+Project: Add single sign on login page to website, security for shopping cart, card transactions
 
 ----------------------------------------------------
 
