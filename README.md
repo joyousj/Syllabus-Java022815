@@ -80,7 +80,7 @@ Project: Work through https://projecteuler.net/archives problem
 + files and streams
 + manipulating collections
 
-Project: Create a shopping cart application that includes abstraction
+Project: Create a text-based online store application that includes abstraction
 
 ----------------------------------------------------
 
@@ -88,14 +88,16 @@ Project: Create a shopping cart application that includes abstraction
 ###Week 3: Unit testing with short scripts
 + unit testing with JUnit
 + regression testing
++ using Maven
++ Spring configuration
 
-Project: create a test suite for a calculator application
+Project: create a test suite for a poker application, including a basic UI
 
 ----------------------------------------------------
 
 
 ###Week 4: Bean configuration
-+ intro to Spring
++ intro to building with Spring
 + dependency injection
 + bean factories
 + bean properties
