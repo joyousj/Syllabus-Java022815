@@ -127,7 +127,7 @@ Project: Convert poker app to use spring framefork
 + Introduction to hibernate
 + Web application using Hibernate, HQL
 + Mappings, Transaction Management
-+ Integration with Strutc, Spring
++ Integration with Struts, Spring
 + Exercsie
  
 ---------------------------------------------------- 
