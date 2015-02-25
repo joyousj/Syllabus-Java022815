@@ -91,33 +91,50 @@ Project: Create a text-based online store application that includes abstraction
 + using Maven
 + Spring configuration
 
-Project: create a test suite for a poker application, including a basic UI
+Project: create a test suite for a poker application
 
 ----------------------------------------------------
 
 
-###Week 4: Bean configuration
-+ intro to building with Spring
-+ dependency injection
-+ bean factories
-+ bean properties
+###Week 4: Web Development
 
-Project: ?
++ HTML, CSS
++ UML, Servlets
++ MVC, Exercise using MVC pattern
++ Intro to JSP, tablibs
++ Custom tag libs, Intro to Struts
+
+Project: Website to host games 
 
 ----------------------------------------------------
 
 
-###Week 5:  Wiring and SPEL
-+ autowiring
-+ annotation-based wiring
-+ the Spring Expression Language
+###Week 5:  Spring
 
-Project: ?
++ Struts, Binding all together
++ XML
++ Intro to Spring framework
++ Configuration, DI, bean factories, auto wiring
++ Creating applications using SPRING
+
+Project: Convert poker app to use spring framefork
 
 ---------------------------------------------------- 
 
 
-###Week 6: Database Modeling and Setup
+###Week 6: Hibernate
+
++ Introduction to hibernate
++ Web application using Hibernate, HQL
++ Mappings, Transaction Management
++ Integration with Strutc, Spring
++ Exercsie
+ 
+---------------------------------------------------- 
+
+
+###Week 7: Database Modeling and Setup
+
 + entities, instances, attributes, and identifiers
 + identifying relationships
 + creating ERD diagrams
@@ -130,7 +147,8 @@ Project: Brainstorm web app ideas and design an appropriate database structure
 ----------------------------------------------------
 
 
-###Week 7: SQL querying
+###Week 8: SQL querying
+
 + the WHERE clause
 + INSERT, UPDATE, DELETE clauses
 + database joins
@@ -140,44 +158,22 @@ Project: Add database functionality to the store app from week 4
 ----------------------------------------------------
 
 
-###Week 8: Building Web Applications with Spring
-+ Aspect-Oriented programming principles
-+ intro to HTML and CSS
-+ XML
-+ UML
-+ Maven
-+ intro to Struts
-+ the MVC framework for building web apps
-+ accessing database objects from a web app
+###Week 9: Web Services and Security
 
-Project: ?
-
-----------------------------------------------------
++ Web Services
++ Design Patterns
++ Java logging API and log4J framework
++ Security features
++ Exercise implementing security, logging
 
 
-###Week 9: Web Forms, JSP, and Hibernate
-+ intro to JSP
-+ intro to Hibernate
-+ HTTP methods
-+ accessing data from forms
-+ form validation
-
-Project: Create an inventory management system
+Project: Add single sign on login page to website, security for shopping cart, card trnsactions
 
 ----------------------------------------------------
 
 
-###Week 10: Security and Design Patterns
-+ intro to secure design
-+ best practices for team development
-+ log4j implementation
+###Week 10: Review and Soft Skills Workshops
 
-Project: Add authentication features to an existing project
-
---------------------------------------------------
-
-
-###Week 11: Review and Soft Skills Workshops
 + review work through first 10 weeks
 + Agile development in a team environment
 + Scrum methodology
@@ -191,7 +187,7 @@ Project: Agile Workshop and Mock Interviews
 -----------------------------------------------------------------------------------------------------
 
 
-###Week 12: Final Project
+###Week 11 & 12: Final Project
 
 Project: each student chooses an individual project from a real-world business case, develops database-backed web application to solve issues presented in case
 
