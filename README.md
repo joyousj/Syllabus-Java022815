@@ -12,6 +12,14 @@ Skills learned: Our 12-week course in Java will cover the basics of developing i
 
 -----------------------------------------------------------------------------------------------------
 
+##Schedule: 
+
+**Daily schedule**: All daily assignments are to be completed before class starts. Classes will begin with a quick Q&A over the previous daily assignment and current weekly project. Claim can be used as a workspace any time between 8am and 6pm Monday-Friday for those looking to work on projects or assignements beforehand.
+**Weekly schedule**: classes will be held every Monday through Friday evening from 6pm-9pm, and every Saturday from 8am-5pm, unless otherwise changed by an instructor beforehand. 
+**Holidays and days off**: The aforementioned schedule will continue uninterrupted until May 23rd, with the exception of Easter weekend (Good Friday, Saturday, and Easter Sunday). Because of Easter, we will not have class on April 5th, 4th, and 3rd.
+
+-----------------------------------------------------------------------------------------------------
+
 ##Learning Objectives: 
 
 ###Knowledge:
