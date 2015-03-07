@@ -16,7 +16,7 @@ Skills learned: Our 12-week course in Java will cover the basics of developing i
 
 **Daily schedule**: All daily assignments are to be completed before class starts. Classes will begin with a quick Q&A over the previous daily assignment and current weekly project. Claim can be used as a workspace any time between 8am and 6pm Monday-Friday for those looking to work on projects or assignements beforehand.
 
-**Weekly schedule**: classes will be held every Monday through Friday evening from 6pm-9pm, and every Saturday from 8am-5pm, unless otherwise changed by an instructor beforehand. 
+**Weekly schedule**: classes will be held every Monday through Friday evening from 6pm-9pm, and every Saturday from 8am-5pm, unless otherwise changed by an instructor beforehand. Saturdays will focus on a weekly project workshop, with a more free-form, lab environment until projects are completed.
 
 **Holidays and days off**: The aforementioned schedule will continue uninterrupted until May 23rd, with the exception of Easter weekend (Good Friday, Saturday, and Easter Sunday). Because of Easter, we will not have class on April 5th, 4th, and 3rd.
 
@@ -77,7 +77,7 @@ Skills learned: Our 12-week course in Java will cover the basics of developing i
 + overloading and overriding
 + intro to Object-Oriented Programming principles
 
-Project: Work through https://projecteuler.net/archives problem
+Project: Work through https://projecteuler.net/archives problems, including the Poker Hands problem set in preparations for weeks 3-10.
 
 ----------------------------------------------------
 
@@ -90,7 +90,7 @@ Project: Work through https://projecteuler.net/archives problem
 + files and streams
 + manipulating collections
 
-Project: Create a text-based online store application that includes abstraction
+Project: Create a text-based online store application that includes abstraction.
 
 ----------------------------------------------------
 
@@ -101,7 +101,7 @@ Project: Create a text-based online store application that includes abstraction
 + using Maven
 + Spring configuration
 
-Project: Create a test suite for a poker application.
+Project: Create a text-based poker application, and a test suite to test user stories.
 
 ----------------------------------------------------
 
@@ -114,7 +114,7 @@ Project: Create a test suite for a poker application.
 + Intro to JSP, tag libs
 + Custom tag libs, Intro to Struts
 
-Project: Create a website to host games (including the poker game from Weeks 1 and 3) 
+Project: Create a website to host online card games (including the poker game from Weeks 1 and 3) 
 
 ----------------------------------------------------
 
@@ -139,6 +139,8 @@ Project: Deploy poker application from Week 4 using Spring framework.
 + Mappings and Transaction Management
 + Integrating Struts into Spring
  
+Project: Add basic Hibernate-based object-relational mapping to the poker application from week 4. Use this mapping to expand the functionality of the poker application, including saving game states and high scores while an application is running.
+
 ---------------------------------------------------- 
 
 
@@ -151,7 +153,7 @@ Project: Deploy poker application from Week 4 using Spring framework.
 + connecting to a database
 + SELECT statements
 
-Project: Brainstorm web app ideas and design an appropriate database structure
+Project: Add basic SQL database functionality to the card game application from week 6 for persistant saving of game states and user high scores. Begin to add username and login functionality to the application.
 
 ----------------------------------------------------
 
@@ -162,7 +164,7 @@ Project: Brainstorm web app ideas and design an appropriate database structure
 + INSERT, UPDATE, DELETE clauses
 + database joins
 
-Project: Add database functionality to the store app from week 4
+Project: Add store functionality to card game application from week 6. Use a database to store user account information, including transactions, games bought, high scores, and some basic stats for each game.
 
 ----------------------------------------------------
 
@@ -176,7 +178,7 @@ Project: Add database functionality to the store app from week 4
 + Exercise implementing security, logging
 
 
-Project: Add single sign on login page to website, security for shopping cart, card transactions
+Project: Add single sign-on login page to card games website, security for shopping cart, and card transactions.
 
 ----------------------------------------------------
 
