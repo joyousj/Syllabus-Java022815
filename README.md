@@ -77,7 +77,7 @@ Skills learned: Our 12-week course in Java will cover the basics of developing i
 + overloading and overriding
 + intro to Object-Oriented Programming principles
 
-Project: Work through https://projecteuler.net/archives problems, including the Poker Hands problem set in preparations for weeks 3-10.
+Project: Work through https://projecteuler.net/archives problems, including the Poker Hands problem set in preparation for weeks 3-10.
 
 ----------------------------------------------------
 
@@ -90,7 +90,9 @@ Project: Work through https://projecteuler.net/archives problems, including the 
 + files and streams
 + manipulating collections
 
-Project: Create a text-based online store application that includes abstraction.
+Project: Make sure that you have a robust and working solution to the Poker Hands problem from Projet 1, and be prepared to present your solutions on Saturday.
+
+Challenge: Create a text-based store application that includes abstraction and functions using only console inputs.
 
 ----------------------------------------------------
 
@@ -101,7 +103,7 @@ Project: Create a text-based online store application that includes abstraction.
 + using Maven
 + Spring configuration
 
-Project: Create a text-based poker application, and a test suite to test user stories.
+Project: Create a text-based poker application based off of the Poker Hands problem from the first Weekly Project, and create a test suite to test user stories.
 
 ----------------------------------------------------
 
