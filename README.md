@@ -72,9 +72,6 @@ Skills learned: Our 12-week course in Java will cover the basics of developing i
 + arrays
 + methods
 + basic I/O
-+ regular expressions
-+ typecast/generics
-+ overloading and overriding
 + intro to Object-Oriented Programming principles
 
 Project: Work through https://projecteuler.net/archives problems, including the Poker Hands problem set in preparation for weeks 3-10.
@@ -85,23 +82,20 @@ Project: Work through https://projecteuler.net/archives problems, including the 
 ###Week 2: Intermediate Java Principles
 + classes and objects
 + inheritance
-+ polymorphism
-+ exception handling
-+ files and streams
-+ manipulating collections
++ overloading and overriding
++ review of Object-Oriented Principles
 
 Project: Make sure that you have a robust and working solution to the Poker Hands problem from Projet 1, and be prepared to present your solutions on Saturday.
-
-Challenge: Create a text-based store application that includes abstraction and functions using only console inputs.
 
 ----------------------------------------------------
 
 
-###Week 3: Unit testing with short scripts
-+ unit testing with JUnit
-+ regression testing
-+ using Maven
-+ Spring configuration
+###Week 3: Advanced Java Principles and Intro to testing
++ polymorphism
++ exception handling
++ files and streams
++ manipulating collections
++ basics of unit testing
 
 Project: Create a text-based poker application based off of the Poker Hands problem from the first Weekly Project, and create a test suite to test user stories.
 
@@ -116,13 +110,15 @@ Project: Create a text-based poker application based off of the Poker Hands prob
 + Intro to JSP, tag libs
 + Custom tag libs, Intro to Struts
 
-Project: Create a website to host online card games (including the poker game from Weeks 1 and 3) 
+Project: Create a website to host online card games (including the poker game from Weeks 1 and 3) from HTML and CSS templates provided.
 
 ----------------------------------------------------
 
 
 ###Week 5:  Spring
 
++ intro to Maven
++ Spring configuration
 + Struts and Binding
 + Intro to XML
 + Intro to Spring framework
