@@ -102,41 +102,39 @@ Project: Create a text-based poker application based off of the Poker Hands prob
 ----------------------------------------------------
 
 
-###Week 4: Web Development
+###Week 4: Basics of Web Development
 
-+ HTML, CSS
-+ UML, Servlets
-+ MVC patterns
-+ Intro to JSP, tag libs
-+ Custom tag libs, Intro to Struts
++ HTML
++ CSS, MVC Pattern
++ UML
++ Introduction to Servlets
++ Servlets Examples
 
 Project: Create a website to host online card games (including the poker game from Weeks 1 and 3) from HTML and CSS templates provided.
 
 ----------------------------------------------------
 
 
-###Week 5:  Spring
+###Week 5:  Web Development and Introduction to Spring
 
-+ intro to Maven
-+ Spring configuration
-+ Struts and Binding
-+ Intro to XML
++ Intro to XML,Intro to JSP
++ Intro to Struts and binding
++ Maven, Spring configuration
 + Intro to Spring framework
 + Configuration, DI, bean factories, auto-wiring
-+ Creating applications using SPRING
 
 Project: Deploy poker application from Week 4 using Spring framework.
 
 ---------------------------------------------------- 
 
 
-###Week 6: Hibernate
+###Week 6: Spring and Hibernate
 
++ Creating applications using SPRING
 + Introduction to Hibernate
 + Building web applications with Hibernate & HQL
 + Mappings and Transaction Management
-+ Integrating Struts into Spring
- 
+
 Project: Add basic Hibernate-based object-relational mapping to the poker application from week 4. Use this mapping to expand the functionality of the poker application, including saving game states and high scores while an application is running.
 
 ---------------------------------------------------- 
